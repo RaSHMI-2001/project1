@@ -1,0 +1,9 @@
+package iocbasic2;
+
+public class Food {
+	Food()
+	{
+		
+	}
+
+}

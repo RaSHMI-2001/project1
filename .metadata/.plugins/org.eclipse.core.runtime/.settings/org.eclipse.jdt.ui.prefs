@@ -1,0 +1,25 @@
+CustomFiltersActionGroup.org.eclipse.jdt.ui.PackageExplorer.TAG_DUMMY_TO_TEST_EXISTENCE=storedViewPreferences
+command=C\:\\Users\\admin\\Desktop\\eclipse\\plugins\\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\\jre\\bin\\javadoc.exe
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.springframework.core.io.AbstractFileResolvingResource"><rhs name\="org.springframework.core.io.ClassPathResource"/></lhs><lhs name\="org.springframework.core.io.AbstractResource"><rhs name\="org.springframework.core.io.ClassPathResource"/></lhs><lhs name\="org.springframework.core.io.Resource"><rhs name\="org.springframework.core.io.ClassPathResource"/></lhs><lhs name\="org.springframework.core.io.InputStreamSource"><rhs name\="org.springframework.core.io.ClassPathResource"/></lhs><lhs name\="org.springframework.core.io.ClassPathResource"><rhs name\="org.springframework.core.io.ClassPathResource"/></lhs><lhs name\="org.springframework.beans.factory.BeanFactory"><rhs name\="org.springframework.beans.factory.xml.XmlBeanFactory"/><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="springiobasics.Mobile"><rhs name\="springiobasics.Mobile"/></lhs><lhs name\="org.springframework.core.env.EnvironmentCapable"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="org.springframework.beans.factory.ListableBeanFactory"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="org.springframework.beans.factory.HierarchicalBeanFactory"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="org.springframework.context.MessageSource"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="org.springframework.context.ApplicationEventPublisher"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="org.springframework.core.io.support.ResourcePatternResolver"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="org.springframework.core.io.ResourceLoader"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="org.springframework.context.ApplicationContext"><rhs name\="org.springframework.context.support.ClassPathXmlApplicationContext"/></lhs><lhs name\="iocbasic2.Car"><rhs name\="iocbasic2.Car"/></lhs><lhs name\="iocbasic2.Food"><rhs name\="iocbasic2.Food"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+lastRecentlyUsedFilters=org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*,
+org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder=true
+org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject=true
+org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter=true
+org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter=true
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter=true
+org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter=true
+org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter=true
+org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter=true
+org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*=true
+org.eclipse.jdt.ui.formatterprofiles.version=23
+org.eclipse.pde.ui.ExternalPluginLibrariesFilter1=true
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

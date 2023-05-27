@@ -1,0 +1,9 @@
+package springiobasics;
+
+public class Mobile {
+	public void musicplayer()
+	{
+		System.out.println("Baby clam down...");
+	}
+
+}

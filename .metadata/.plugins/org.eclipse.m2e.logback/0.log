@@ -1,0 +1,267 @@
+2023-05-01 15:53:44,655 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-01 15:53:46,690 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-05-02 16:30:21,058 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-02 16:30:23,926 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-05-02 16:31:07,821 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-02 16:31:09,777 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-05-02 16:47:35,166 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-02 16:47:35,413 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 0 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-02 17:08:11,072 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [610])
+2023-05-02 17:08:11,419 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-05-02 17:08:11,420 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-05-02 17:08:11,420 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-05-02 17:08:11,432 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-05-02 17:08:11,432 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-05-02 17:08:11,432 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-05-02 17:08:11,433 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-05-02 17:08:11,433 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-05-02 17:08:11,434 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-05-02 17:08:11,434 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-05-02 17:08:11,434 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-05-02 17:08:11,435 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-05-02 17:08:11,435 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-05-02 17:08:11,435 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-05-02 17:08:11,436 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-05-02 17:08:11,436 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-05-02 17:08:11,437 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-05-02 17:08:11,437 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-05-02 17:08:11,437 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-05-02 17:08:11,438 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-05-02 17:08:11,438 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-05-02 17:08:11,438 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-05-02 17:08:11,439 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-05-02 17:08:11,439 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-05-02 17:08:11,439 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-05-02 17:08:11,440 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-05-02 17:08:11,440 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-05-02 17:08:11,441 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-05-02 17:08:11,441 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-05-02 17:08:11,441 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-05-02 17:08:11,442 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-05-02 17:08:11,442 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-05-02 17:08:11,443 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-05-02 17:08:11,443 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-05-02 17:08:11,444 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-05-02 17:08:11,444 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-05-02 17:08:11,445 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-05-02 17:08:11,450 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [11])
+2023-05-02 17:08:11,452 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\com.google.guava_31.1.0.jre.jar
+2023-05-02 17:08:11,452 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [924])
+2023-05-02 17:08:11,817 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\slf4j.api_1.7.36.jar
+2023-05-02 17:08:11,818 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [35])
+2023-05-02 17:08:12,114 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-05-02 17:08:12,114 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [33])
+2023-05-02 17:08:12,544 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-05-02 17:08:12,544 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [67])
+2023-05-02 17:08:12,563 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-05-02 17:08:12,563 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [13])
+2023-05-02 17:08:12,714 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\admin\Desktop\eclipse\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-05-02 17:08:13,139 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\admin\AppData\Local\Temp\m2e-archetypeGenerator6554926355574996016":
+2023-05-02 17:08:13,165 [Worker-0: Launching mavenrun-08fdaf28-3f44-4f71-a398-4e3f1cd71dc1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.4 -DgroupId=ty.com -DartifactId=servlet -Dversion=0.0.1-SNAPSHOT -Dpackage=ty.com.servlet -DoutputDirectory=C:\Users\admin\eclipse-workspace\servletproject -Dstyle.color=always -U archetype:generate
+2023-05-02 17:08:27,074 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-02 17:10:36,387 [Worker-12: Launching mavenrun-ad37a713-bcc5-4fa4-aeff-9413903d8dff] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\admin\AppData\Local\Temp\m2e-archetypeGenerator15817610536594053540":
+2023-05-02 17:10:36,389 [Worker-12: Launching mavenrun-ad37a713-bcc5-4fa4-aeff-9413903d8dff] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.4 -DgroupId=test.com -DartifactId=servletp -Dversion=0.0.1-SNAPSHOT -Dpackage=test.com.servletp -DoutputDirectory=C:\Users\admin\eclipse-workspace\servletproject -Dstyle.color=always -U archetype:generate
+2023-05-02 17:17:38,939 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-23 12:19:35,485 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-23 12:19:46,913 [Worker-2: Deferred Early Start] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.eclipse.org:443
+2023-05-24 12:02:39,591 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-24 12:06:04,049 [Worker-6: Creating project "iocbasic"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:iocbasic:0.0.1-SNAPSHOT @ C:\Users\admin\eclipse-workspace\servletproject\iocbasic\pom.xml.
+2023-05-24 12:06:16,920 [Worker-6: Creating project "iocbasic"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /iocbasic/src/main/java
+2023-05-24 12:06:16,923 [Worker-6: Creating project "iocbasic"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /iocbasic/src/main/resources
+2023-05-24 12:06:16,925 [Worker-6: Creating project "iocbasic"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /iocbasic/src/test/java
+2023-05-24 12:06:16,925 [Worker-6: Creating project "iocbasic"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /iocbasic/src/test/resources
+2023-05-24 12:06:20,379 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:06:20,510 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:06:20,522 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:06:20,525 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:09:54,096 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:iocbasic:0.0.1-SNAPSHOT @ C:\Users\admin\eclipse-workspace\servletproject\iocbasic\pom.xml.
+2023-05-24 12:09:55,414 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:09:55,428 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:09:55,439 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:09:55,443 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:09:56,059 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.18/spring-context-5.3.18-sources.jar
+2023-05-24 12:09:56,519 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.18/spring-context-5.3.18-sources.jar
+2023-05-24 12:09:56,546 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.3.18
+2023-05-24 12:09:56,811 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.18/spring-aop-5.3.18-sources.jar
+2023-05-24 12:09:57,886 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.18/spring-aop-5.3.18-sources.jar
+2023-05-24 12:09:57,894 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.3.18
+2023-05-24 12:09:58,128 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.18/spring-beans-5.3.18-sources.jar
+2023-05-24 12:09:58,529 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.18/spring-beans-5.3.18-sources.jar
+2023-05-24 12:09:58,536 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.3.18
+2023-05-24 12:09:58,739 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.18/spring-core-5.3.18-sources.jar
+2023-05-24 12:09:59,203 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.18/spring-core-5.3.18-sources.jar
+2023-05-24 12:09:59,239 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.3.18
+2023-05-24 12:09:59,469 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.18/spring-jcl-5.3.18-sources.jar
+2023-05-24 12:10:01,294 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.18/spring-jcl-5.3.18-sources.jar
+2023-05-24 12:10:01,651 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.3.18
+2023-05-24 12:10:01,849 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.18/spring-expression-5.3.18-sources.jar
+2023-05-24 12:10:02,106 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.18/spring-expression-5.3.18-sources.jar
+2023-05-24 12:10:02,114 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.3.18
+2023-05-24 12:12:35,429 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:12:35,443 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 12:12:35,618 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:12:35,621 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:12:36,838 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:12:36,842 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 12:12:36,875 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:12:36,879 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:14:34,125 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:14:34,129 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:14:34,139 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:14:34,141 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:14:55,878 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:14:55,966 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:14:55,971 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:14:55,995 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:18:09,083 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:18:09,086 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:18:09,102 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:18:09,151 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:21:00,941 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:21:00,945 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:21:00,951 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:21:01,029 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:21:35,293 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:21:35,296 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:21:35,319 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:21:35,322 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:22:33,946 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:22:33,950 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:22:33,956 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:22:33,958 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:23:06,674 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:23:06,677 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 12:23:06,683 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 12:23:06,686 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 15:42:16,048 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 15:42:16,100 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 15:42:16,104 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-24 15:42:16,198 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 10:47:33,483 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-25 10:47:36,417 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-05-25 10:48:30,715 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 10:48:30,766 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 10:48:30,777 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 10:48:30,823 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 10:54:56,025 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 10:54:56,145 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 10:54:56,156 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 10:54:56,160 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 10:57:48,875 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 10:57:48,892 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 10:57:48,897 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 10:57:48,935 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 10:58:32,796 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 10:58:32,799 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 10:58:32,806 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 10:58:32,809 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:07:39,359 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:07:39,364 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:07:39,374 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:07:39,404 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:08:49,648 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:08:49,652 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:08:49,659 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:08:49,661 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:10:12,486 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:10:12,490 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:10:12,495 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:10:12,497 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:11:18,500 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:11:18,503 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:11:18,511 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:11:18,514 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:11:44,973 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:11:44,977 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:11:44,984 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:11:44,986 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:14:02,745 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:14:02,748 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:14:02,753 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:14:02,756 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:16:20,213 [Worker-17: Creating project "iocbasic2"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:iocbasic2:0.0.1-SNAPSHOT @ C:\Users\admin\eclipse-workspace\servletproject\iocbasic2\pom.xml.
+2023-05-25 11:16:21,921 [Worker-17: Creating project "iocbasic2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /iocbasic2/src/main/java
+2023-05-25 11:16:21,922 [Worker-17: Creating project "iocbasic2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /iocbasic2/src/main/resources
+2023-05-25 11:16:21,924 [Worker-17: Creating project "iocbasic2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /iocbasic2/src/test/java
+2023-05-25 11:16:21,925 [Worker-17: Creating project "iocbasic2"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /iocbasic2/src/test/resources
+2023-05-25 11:16:23,633 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:16:23,636 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:16:23,643 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:16:23,645 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:17:39,468 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:iocbasic2:0.0.1-SNAPSHOT @ C:\Users\admin\eclipse-workspace\servletproject\iocbasic2\pom.xml.
+2023-05-25 11:17:39,892 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:17:39,899 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:17:39,904 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:17:39,907 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:18:10,498 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:18:10,501 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:18:10,508 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:18:10,510 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:19:47,203 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:19:47,206 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:19:47,209 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:19:47,229 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:20:20,923 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:20:20,926 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:20:20,931 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:20:20,934 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:21:50,005 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:21:50,008 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:21:50,015 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:21:50,017 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:22:13,039 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:22:13,042 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:22:13,047 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:22:13,049 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:22:32,193 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:22:32,196 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:22:32,201 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:22:32,205 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:25:06,514 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:25:06,519 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:25:06,524 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:25:06,526 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:26:58,855 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:26:58,858 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:26:58,864 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:26:58,866 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:50:35,528 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:50:35,646 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:50:35,651 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:50:35,654 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:51:27,301 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:51:27,304 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:51:27,309 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:51:27,312 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:51:44,293 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:51:44,297 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:51:44,303 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:51:44,350 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:51:50,417 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:51:50,420 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:51:50,426 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:51:50,428 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:52:44,911 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:52:44,914 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:52:44,919 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:52:44,921 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:53:28,371 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:53:28,374 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:53:28,381 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:53:28,383 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:53:55,136 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:53:55,141 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:53:55,145 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:53:55,147 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:55:07,699 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:55:07,703 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:55:07,708 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:55:07,748 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:55:31,955 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:55:31,958 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 11:55:31,965 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-25 11:55:31,968 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-27 09:56:26,687 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-27 09:56:29,955 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-05-27 10:02:09,469 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-27 10:02:11,323 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
